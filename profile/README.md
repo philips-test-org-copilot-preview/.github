@@ -10,6 +10,7 @@ When requesting and utilizing these preview features, it's crucial to proceed wi
 # Requesting Access to Copilot Preview Features
 To request access and extended permissions for evaluating Copilot preview features within this organization, please submit a new GitHub Issue. It's essential to use the provided issue template and fill in all fields completely. This ensures we have the necessary information to process your request efficiently and grant you the appropriate permissions.
 
-Repository to submit Issues: [https://github.com/philips-test-org-copilot-preview](https://github.com/philips-test-org-copilot-preview/Requests-for-Copilot-Preview-Features)
+Repository to submit Issues: [[https://github.com/philips-test-org-copilot-preview](https://github.com/philips-test-org-copilot-preview/Requests-for-Copilot-Preview-Features)
+Or: ](https://github.com/philips-test-org-copilot-preview/Requests-for-Copilot-Preview-Features/issues)
 
 **Always be mindful of the data you are processing and the implications of using features that are not yet officially supported.**
