@@ -1,1 +1,4 @@
-This ReadMe filw will include details about this org and Rules of Engegment for working with Copilot new featues, PoC, preview featues, etc.
+This repository is designed to streamline user requests for GitHub Copilot preview features that are not yet enabled across our enterprise. 
+We understand the value these cutting-edge features can bring to your workflow and are committed to evaluating and potentially integrating them.
+
+When requesting and utilizing these preview features, it's crucial to proceed with utmost care and diligence. As they are still in preview, they may not be fully stable, could have undocumented behaviors, or might not yet adhere to all our enterprise security and compliance standards. Always be mindful of the data you are processing and the implications of using features that are not yet officially supported.
